@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/bemusic/bms-js",
   "devDependencies": {
+    "artstep": "^5555.0.0",
     "bluebird": "^2.6.2",
     "chai": "^1.10.0",
     "codeclimate-test-reporter": "0.0.4",
@@ -39,6 +40,7 @@
     "bemuse-chardet": "0.0.8",
     "data-structure": "^1.2.0",
     "iconv-lite": "^0.4.5",
+    "invariant": "^2.1.0",
     "lodash.pluck": "^3.1.2",
     "lodash.uniq": "^3.2.1",
     "lodash.values": "^3.0.0"
